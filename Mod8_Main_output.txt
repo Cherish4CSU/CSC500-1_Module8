@@ -1,0 +1,178 @@
+-------------------------------------------------
+Welcome to Your Personal Online Shopping Cart
+-------------------------------------------------
+
+Enter customer's name:
+Cherish
+Enter today's date:
+4/7/24
+
+----------------------------------------
+Customer name: Cherish
+Today's date: 4/7/24
+
+Online Shopping Cart - Main Menu
+-------------------------------------
+a - Add item to cart
+r - Remove item from cart
+c - Change item quantity
+i - Output items' descriptions
+o - Output shopping cart
+q - Quit
+
+****UH-OH! YOUR SHOPPING CART IS EMPTY!****
+Would you like to add two items to your cart to get started? (y/n)
+y
+---------------------------------------------------------------
+Online Shopping Cart -- TWO ITEMS MINIMUM -- 
+ Please Add 2 Items To Start
+---------------------------------------------------------------
+
+Item #1 Name: 
+gum
+Item # 1 Price: $
+4.32
+Item # 1 Quantity: 
+4
+Item #1 Description (Brand, Color, etc.): 
+Bubble
+
+-------------------------------------
+Item #1 Added to Shopping Cart!
+Gum: 4 @ $4.32 = $17.28
+
+Item #2 Name: 
+coke
+Item # 2 Price: $
+2.56
+Item # 2 Quantity: 
+6
+Item #2 Description (Brand, Color, etc.): 
+Coca-Cola
+
+-------------------------------------
+Item #2 Added to Shopping Cart!
+Coke: 6 @ $2.56 = $15.36
+-------------------------------------
+Shopping Cart Total: $32.64
+-------------------------------------
+
+
+Online Shopping Cart - Main Menu
+-------------------------------------
+a - Add item to cart
+r - Remove item from cart
+c - Change item quantity
+i - Output items' descriptions
+o - Output shopping cart
+q - Quit
+
+Please choose a menu option: 
+c
+
+Current items in cart:
+Shopping Cart for Cherish - 4/7/24
+---------------------------------------
+Number of Items: 10
+Gum: 4 @ $4.32 = $17.28
+Coke: 6 @ $2.56 = $15.36
+---------------------------------------
+Shopping Cart Total: $32.64
+---------------------------------------
+Enter the name of the item to change quantity: 
+gum
+Enter the new quantity: 
+6
+Thank you! The Shopping cart quantity for 'Gum' was modified successfully.
+
+Online Shopping Cart - Main Menu
+-------------------------------------
+a - Add item to cart
+r - Remove item from cart
+c - Change item quantity
+i - Output items' descriptions
+o - Output shopping cart
+q - Quit
+
+Please choose a menu option: 
+r
+
+Current items in cart:
+Shopping Cart for Cherish - 4/7/24
+---------------------------------------
+Number of Items: 12
+Gum: 6 @ $4.32 = $17.28
+Coke: 6 @ $2.56 = $15.36
+---------------------------------------
+Shopping Cart Total: $41.28
+---------------------------------------
+Please enter the name of the item to remove: 
+coke
+Item 'Coke' was removed from cart.
+
+Online Shopping Cart - Main Menu
+-------------------------------------
+a - Add item to cart
+r - Remove item from cart
+c - Change item quantity
+i - Output items' descriptions
+o - Output shopping cart
+q - Quit
+
+Please choose a menu option: 
+i
+
+Shopping Cart for Cherish - 4/7/24
+Item Descriptions
+---------------------------------------
+Gum: Bubble
+---------------------------------------
+
+
+Online Shopping Cart - Main Menu
+-------------------------------------
+a - Add item to cart
+r - Remove item from cart
+c - Change item quantity
+i - Output items' descriptions
+o - Output shopping cart
+q - Quit
+
+Please choose a menu option: 
+p
+Invalid choice. Please try again.
+
+Online Shopping Cart - Main Menu
+-------------------------------------
+a - Add item to cart
+r - Remove item from cart
+c - Change item quantity
+i - Output items' descriptions
+o - Output shopping cart
+q - Quit
+
+Please choose a menu option: 
+o
+Shopping Cart for Cherish - 4/7/24
+---------------------------------------
+Number of Items: 6
+Gum: 6 @ $4.32 = $17.28
+---------------------------------------
+Shopping Cart Total: $25.92
+---------------------------------------
+
+Online Shopping Cart - Main Menu
+-------------------------------------
+a - Add item to cart
+r - Remove item from cart
+c - Change item quantity
+i - Output items' descriptions
+o - Output shopping cart
+q - Quit
+
+Please choose a menu option: 
+q
+
+
+** Process exited - Return Code: 0 **
+Press Enter to exit terminal
